@@ -19,7 +19,7 @@ Hello! I'm Jidnyesh, a passionate developer and lifelong learner. I love buildin
 
 - Pariksha Portal — Quiz Platform to host MCQ quizes.
 - My Learnings — Note taking Apps for student
-- 
+
 
 ---
 
